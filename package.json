@@ -1,0 +1,12 @@
+{
+  "name": "fake-json-api-tp-validation-acquis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
